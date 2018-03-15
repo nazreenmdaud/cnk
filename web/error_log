@@ -1,0 +1,509 @@
+[18-Dec-2017 21:17:27 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 45
+[18-Dec-2017 21:17:27 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 57
+[18-Dec-2017 21:17:27 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 64
+[18-Dec-2017 21:17:27 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 64
+[18-Dec-2017 21:17:27 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 73
+[18-Dec-2017 21:17:27 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 73
+[18-Dec-2017 21:17:27 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 82
+[18-Dec-2017 21:17:27 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 82
+[18-Dec-2017 21:17:27 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 91
+[18-Dec-2017 21:17:27 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 102
+[18-Dec-2017 21:17:27 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/main.php on line 80
+[19-Dec-2017 01:53:25 Asia/Singapore] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wpsupport/public_html/charles&keith/models/Defect.php on line 37
+[19-Dec-2017 02:03:19 Asia/Singapore] PHP Fatal error:  Cannot use app\models\Customer as Customer because the name is already in use in /home/wpsupport/public_html/charles&keith/views/defect/_form.php on line 13
+[19-Dec-2017 07:13:00 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 45
+[19-Dec-2017 07:13:00 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 57
+[19-Dec-2017 07:13:00 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 64
+[19-Dec-2017 07:13:00 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 64
+[19-Dec-2017 07:13:00 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 75
+[19-Dec-2017 07:13:00 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 86
+[19-Dec-2017 07:13:00 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/main.php on line 80
+[19-Dec-2017 07:22:10 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 45
+[19-Dec-2017 07:22:10 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 57
+[19-Dec-2017 07:22:10 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 64
+[19-Dec-2017 07:22:10 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 64
+[19-Dec-2017 07:22:10 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 75
+[19-Dec-2017 07:22:10 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 86
+[19-Dec-2017 07:22:10 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/main.php on line 80
+[20-Dec-2017 18:05:25 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:06:24 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:06:31 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:06:35 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:06:41 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:06:48 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:07:57 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:08:10 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:08:22 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:10:42 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:11:41 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:13:47 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:15:04 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:17:29 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:19:31 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:19:51 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:27:10 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:27:14 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:29:26 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:30:22 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:32:32 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:33:54 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:34:54 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:35:54 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:36:14 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 18:36:23 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 19:17:17 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 19:38:12 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 19:38:31 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 19:44:35 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 19:45:00 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 19:45:12 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 19:45:28 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[20-Dec-2017 19:45:46 Asia/Singapore] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php on line 3
+[08-Jan-2018 16:57:29 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 45
+[08-Jan-2018 16:57:29 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 57
+[08-Jan-2018 16:57:29 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 64
+[08-Jan-2018 16:57:29 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 64
+[08-Jan-2018 16:57:29 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 75
+[08-Jan-2018 16:57:29 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/sidebar.php on line 86
+[08-Jan-2018 16:57:29 Asia/Singapore] PHP Notice:  Trying to get property of non-object in /home/wpsupport/public_html/charles&keith/views/layouts/main.php on line 80
+[25-Jan-2018 15:10:42 Asia/Singapore] PHP Fatal error:  Class 'Aws\AwsClient' not found in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 70
+[25-Jan-2018 15:10:45 Asia/Singapore] PHP Fatal error:  Class 'Aws\AwsClient' not found in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 70
+[25-Jan-2018 15:13:11 Asia/Singapore] PHP Warning:  Uncaught yii\base\ErrorException: require(../AwsClient.php): failed to open stream: No such file or directory in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php:5
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): yii\base\ErrorHandler->handleError(2, 'require(../AwsC...', '/home/wpsupport...', 5, Array)
+#1 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): require()
+#2 /home/wpsupport/public_html/charles&keith/controllers/DefectController.php(21): require('/home/wpsupport...')
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/wpsupport...')
+#4 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#5 [internal function]: spl_autoload_call('app\\controllers...')
+#6 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(638): class_exists('app\\controllers...')
+#7 /home/wpsupport/public_html/charl in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[25-Jan-2018 15:13:11 Asia/Singapore] PHP Fatal error:  yii\BaseYii::main(): Failed opening required '../AwsClient.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[25-Jan-2018 15:13:51 Asia/Singapore] PHP Warning:  Uncaught yii\base\ErrorException: require(../AwsClient.php): failed to open stream: No such file or directory in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php:5
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): yii\base\ErrorHandler->handleError(2, 'require(../AwsC...', '/home/wpsupport...', 5, Array)
+#1 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): require()
+#2 /home/wpsupport/public_html/charles&keith/controllers/DefectController.php(21): require('/home/wpsupport...')
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/wpsupport...')
+#4 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#5 [internal function]: spl_autoload_call('app\\controllers...')
+#6 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(638): class_exists('app\\controllers...')
+#7 /home/wpsupport/public_html/charl in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[25-Jan-2018 15:13:51 Asia/Singapore] PHP Fatal error:  yii\BaseYii::main(): Failed opening required '../AwsClient.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[25-Jan-2018 15:13:54 Asia/Singapore] PHP Warning:  Uncaught yii\base\ErrorException: require(../AwsClient.php): failed to open stream: No such file or directory in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php:5
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): yii\base\ErrorHandler->handleError(2, 'require(../AwsC...', '/home/wpsupport...', 5, Array)
+#1 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): require()
+#2 /home/wpsupport/public_html/charles&keith/controllers/DefectController.php(21): require('/home/wpsupport...')
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/wpsupport...')
+#4 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#5 [internal function]: spl_autoload_call('app\\controllers...')
+#6 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(638): class_exists('app\\controllers...')
+#7 /home/wpsupport/public_html/charl in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[25-Jan-2018 15:13:54 Asia/Singapore] PHP Fatal error:  yii\BaseYii::main(): Failed opening required '../AwsClient.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[25-Jan-2018 16:03:52 Asia/Singapore] PHP Warning:  Uncaught yii\base\ErrorException: require(../AwsClient.php): failed to open stream: No such file or directory in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php:5
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): yii\base\ErrorHandler->handleError(2, 'require(../AwsC...', '/home/wpsupport...', 5, Array)
+#1 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): require()
+#2 /home/wpsupport/public_html/charles&keith/controllers/DefectController.php(21): require('/home/wpsupport...')
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/wpsupport...')
+#4 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#5 [internal function]: spl_autoload_call('app\\controllers...')
+#6 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(638): class_exists('app\\controllers...')
+#7 /home/wpsupport/public_html/charl in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[25-Jan-2018 16:03:52 Asia/Singapore] PHP Fatal error:  yii\BaseYii::main(): Failed opening required '../AwsClient.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[25-Jan-2018 16:04:04 Asia/Singapore] PHP Warning:  Uncaught yii\base\ErrorException: require(../AwsClient.php): failed to open stream: No such file or directory in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php:5
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): yii\base\ErrorHandler->handleError(2, 'require(../AwsC...', '/home/wpsupport...', 5, Array)
+#1 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): require()
+#2 /home/wpsupport/public_html/charles&keith/controllers/DefectController.php(21): require('/home/wpsupport...')
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/wpsupport...')
+#4 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#5 [internal function]: spl_autoload_call('app\\controllers...')
+#6 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(638): class_exists('app\\controllers...')
+#7 /home/wpsupport/public_html/charl in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[25-Jan-2018 16:04:04 Asia/Singapore] PHP Fatal error:  yii\BaseYii::main(): Failed opening required '../AwsClient.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[25-Jan-2018 16:04:18 Asia/Singapore] PHP Warning:  Uncaught yii\base\ErrorException: require(../AwsClient.php): failed to open stream: No such file or directory in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php:5
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): yii\base\ErrorHandler->handleError(2, 'require(../AwsC...', '/home/wpsupport...', 5, Array)
+#1 /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php(5): require()
+#2 /home/wpsupport/public_html/charles&keith/controllers/DefectController.php(21): require('/home/wpsupport...')
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/wpsupport...')
+#4 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#5 [internal function]: spl_autoload_call('app\\controllers...')
+#6 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(638): class_exists('app\\controllers...')
+#7 /home/wpsupport/public_html/charl in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[25-Jan-2018 16:04:18 Asia/Singapore] PHP Fatal error:  yii\BaseYii::main(): Failed opening required '../AwsClient.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/wpsupport/public_html/charles&keith/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php on line 5
+[07-Mar-2018 12:22:24 Asia/Singapore] An Error occurred while handling another error:
+Error: Call to undefined method Yii::app() in /home/wpsupport/public_html/charles&keith/views/layouts/main.php:24
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/View.php(332): require()
+#1 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/View.php(250): yii\base\View->renderPhpFile('/home/wpsupport...', Array)
+#2 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/wpsupport...', Array, Object(app\controllers\SiteController))
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<div class="sit...')
+#4 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorAction.php(128): yii\base\Controller->render('error', Array)
+#5 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorAction.php(107): yii\web\ErrorAction->renderHtmlResponse()
+#6 [internal function]: yii\web\ErrorAction->run()
+#7 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Action.php(94): call_user_func_array(Array, Array)
+#8 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\Action->runWithParams(Array)
+#9 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('error', Array)
+#10 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#11 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#12 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#13 {main}
+Previous exception:
+yii\web\NotFoundHttpException: The requested page does not exist. in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php:1532
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/controllers/DefectController.php(1139): app\controllers\DefectController->findModel('71')
+#1 [internal function]: app\controllers\DefectController->actionUpdate('71')
+#2 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#4 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('update', Array)
+#5 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('defect/update', Array)
+#6 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/wpsupport/public_html/charles&keith/web/index.php(12): yii\base\Application->run()
+#8 {main}
+$_SERVER = [
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'PWD' => '/usr/local/cpanel/cgi-sys',
+    'TZ' => 'Asia/Singapore',
+    'SHLVL' => '0',
+    'SCRIPT_NAME' => '/charles&keith/web/index.php',
+    'REQUEST_URI' => '/charles&keith/web/defect/update?id=71',
+    'QUERY_STRING' => 'id=71',
+    'REQUEST_METHOD' => 'GET',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REDIRECT_QUERY_STRING' => 'id=71',
+    'REDIRECT_URL' => '/charles&keith/web/defect/update',
+    'REMOTE_PORT' => '49365',
+    'SCRIPT_FILENAME' => '/home/wpsupport/public_html/charles&keith/web/index.php',
+    'SERVER_ADMIN' => 'webmaster@webpuppies.me',
+    'CONTEXT_DOCUMENT_ROOT' => '/home/wpsupport/public_html',
+    'CONTEXT_PREFIX' => '',
+    'REQUEST_SCHEME' => 'http',
+    'DOCUMENT_ROOT' => '/home/wpsupport/public_html',
+    'REMOTE_ADDR' => '116.73.197.87',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '103.11.189.110',
+    'SERVER_NAME' => 'webpuppies.me',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_SIGNATURE' => '',
+    'HTTP_COOKIE' => '_csrf=07d20e4401331a3136f240e401650bfad5ad4c4d7235f0dec16f472855f41d9ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22BWtCzTlqojD2pEdDbV7ndwLfp1JB8NSv%22%3B%7D; PHPSESSID=5d8405f630950c90f18f340032d45ce0',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_REFERER' => 'http://webpuppies.me/charles&keith/web/site/login',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_HOST' => 'webpuppies.me',
+    'SCRIPT_URI' => 'http://webpuppies.me/charles&keith/web/defect/update',
+    'SCRIPT_URL' => '/charles&keith/web/defect/update',
+    'UNIQUE_ID' => 'Wp9pAK-podUnxfDWBqejpwAAAUg',
+    'REDIRECT_STATUS' => '200',
+    'REDIRECT_SCRIPT_URI' => 'http://webpuppies.me/charles&keith/web/defect/update',
+    'REDIRECT_SCRIPT_URL' => '/charles&keith/web/defect/update',
+    'REDIRECT_UNIQUE_ID' => 'Wp9pAK-podUnxfDWBqejpwAAAUg',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/charles&keith/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520396544.1943619251251220703125,
+    'REQUEST_TIME' => 1520396544,
+]
+[07-Mar-2018 12:22:30 Asia/Singapore] An Error occurred while handling another error:
+Error: Call to undefined method Yii::app() in /home/wpsupport/public_html/charles&keith/views/layouts/main.php:24
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/View.php(332): require()
+#1 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/View.php(250): yii\base\View->renderPhpFile('/home/wpsupport...', Array)
+#2 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/wpsupport...', Array, Object(app\controllers\SiteController))
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<div class="sit...')
+#4 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorAction.php(128): yii\base\Controller->render('error', Array)
+#5 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorAction.php(107): yii\web\ErrorAction->renderHtmlResponse()
+#6 [internal function]: yii\web\ErrorAction->run()
+#7 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Action.php(94): call_user_func_array(Array, Array)
+#8 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\Action->runWithParams(Array)
+#9 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('error', Array)
+#10 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#11 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#12 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#13 {main}
+Previous exception:
+yii\web\NotFoundHttpException: The requested page does not exist. in /home/wpsupport/public_html/charles&keith/controllers/DefectController.php:1532
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/controllers/DefectController.php(1139): app\controllers\DefectController->findModel('71')
+#1 [internal function]: app\controllers\DefectController->actionUpdate('71')
+#2 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#4 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('update', Array)
+#5 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('defect/update', Array)
+#6 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/wpsupport/public_html/charles&keith/web/index.php(12): yii\base\Application->run()
+#8 {main}
+$_SERVER = [
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'PWD' => '/usr/local/cpanel/cgi-sys',
+    'TZ' => 'Asia/Singapore',
+    'SHLVL' => '0',
+    'SCRIPT_NAME' => '/charles&keith/web/index.php',
+    'REQUEST_URI' => '/charles&keith/web/defect/update?id=71',
+    'QUERY_STRING' => 'id=71',
+    'REQUEST_METHOD' => 'GET',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REDIRECT_QUERY_STRING' => 'id=71',
+    'REDIRECT_URL' => '/charles&keith/web/defect/update',
+    'REMOTE_PORT' => '49368',
+    'SCRIPT_FILENAME' => '/home/wpsupport/public_html/charles&keith/web/index.php',
+    'SERVER_ADMIN' => 'webmaster@webpuppies.me',
+    'CONTEXT_DOCUMENT_ROOT' => '/home/wpsupport/public_html',
+    'CONTEXT_PREFIX' => '',
+    'REQUEST_SCHEME' => 'http',
+    'DOCUMENT_ROOT' => '/home/wpsupport/public_html',
+    'REMOTE_ADDR' => '116.73.197.87',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '103.11.189.110',
+    'SERVER_NAME' => 'webpuppies.me',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_SIGNATURE' => '',
+    'HTTP_COOKIE' => '_csrf=07d20e4401331a3136f240e401650bfad5ad4c4d7235f0dec16f472855f41d9ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22BWtCzTlqojD2pEdDbV7ndwLfp1JB8NSv%22%3B%7D; PHPSESSID=5d8405f630950c90f18f340032d45ce0',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_HOST' => 'webpuppies.me',
+    'SCRIPT_URI' => 'http://webpuppies.me/charles&keith/web/defect/update',
+    'SCRIPT_URL' => '/charles&keith/web/defect/update',
+    'UNIQUE_ID' => 'Wp9pBg6ZZwxCeGAhdz1kMwAAADs',
+    'REDIRECT_STATUS' => '200',
+    'REDIRECT_SCRIPT_URI' => 'http://webpuppies.me/charles&keith/web/defect/update',
+    'REDIRECT_SCRIPT_URL' => '/charles&keith/web/defect/update',
+    'REDIRECT_UNIQUE_ID' => 'Wp9pBg6ZZwxCeGAhdz1kMwAAADs',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/charles&keith/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520396550.0688130855560302734375,
+    'REQUEST_TIME' => 1520396550,
+]
+[07-Mar-2018 13:10:00 Asia/Singapore] An Error occurred while handling another error:
+Error: Call to undefined method Yii::app() in /home/wpsupport/public_html/charles&keith/views/layouts/main.php:24
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/View.php(332): require()
+#1 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/View.php(250): yii\base\View->renderPhpFile('/home/wpsupport...', Array)
+#2 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/wpsupport...', Array, Object(app\controllers\SiteController))
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<div class="sit...')
+#4 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorAction.php(128): yii\base\Controller->render('error', Array)
+#5 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorAction.php(107): yii\web\ErrorAction->renderHtmlResponse()
+#6 [internal function]: yii\web\ErrorAction->run()
+#7 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Action.php(94): call_user_func_array(Array, Array)
+#8 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\Action->runWithParams(Array)
+#9 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('error', Array)
+#10 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#11 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#12 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#13 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request: defect/index66 in /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index66', Array)
+#1 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('defect/index66', Array)
+#2 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/wpsupport/public_html/charles&keith/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/wpsupport/public_html/charles&keith/web/index.php(12): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'PWD' => '/usr/local/cpanel/cgi-sys',
+    'TZ' => 'Asia/Singapore',
+    'SHLVL' => '0',
+    'SCRIPT_NAME' => '/charles&keith/web/index.php',
+    'REQUEST_URI' => '/charles&keith/web/defect/index66',
+    'QUERY_STRING' => '',
+    'REQUEST_METHOD' => 'GET',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REDIRECT_URL' => '/charles&keith/web/defect/index66',
+    'REMOTE_PORT' => '54629',
+    'SCRIPT_FILENAME' => '/home/wpsupport/public_html/charles&keith/web/index.php',
+    'SERVER_ADMIN' => 'webmaster@webpuppies.me',
+    'CONTEXT_DOCUMENT_ROOT' => '/home/wpsupport/public_html',
+    'CONTEXT_PREFIX' => '',
+    'REQUEST_SCHEME' => 'http',
+    'DOCUMENT_ROOT' => '/home/wpsupport/public_html',
+    'REMOTE_ADDR' => '101.100.181.180',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '103.11.189.110',
+    'SERVER_NAME' => 'webpuppies.me',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_SIGNATURE' => '',
+    'HTTP_COOKIE' => '_ga=GA1.2.2019414797.1488364878; __atuvc=7%7C50; _csrf=393aa8e107b5a20b6df0c6080c991246beab23a8be2f495fc3d32dd1e5ddb808a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22uLis2WEsjUPbQJ48gHe8p8G_zGDw2XCw%22%3B%7D; timezone=Asia/Shanghai; PHPSESSID=1eb03ec75609d23cbe908110a1119f77',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_REFERER' => 'http://webpuppies.me/charles&keith/web/defect/view?id=66',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_HOST' => 'webpuppies.me',
+    'SCRIPT_URI' => 'http://webpuppies.me/charles&keith/web/defect/index66',
+    'SCRIPT_URL' => '/charles&keith/web/defect/index66',
+    'UNIQUE_ID' => 'Wp90KK-UUs7Gzk9i2CflTwAAAbY',
+    'REDIRECT_STATUS' => '200',
+    'REDIRECT_SCRIPT_URI' => 'http://webpuppies.me/charles&keith/web/defect/index66',
+    'REDIRECT_SCRIPT_URL' => '/charles&keith/web/defect/index66',
+    'REDIRECT_UNIQUE_ID' => 'Wp90KK-UUs7Gzk9i2CflTwAAAbY',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/charles&keith/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520399400.5147840976715087890625,
+    'REQUEST_TIME' => 1520399400,
+]
+[07-Mar-2018 13:31:45 Asia/Singapore] An Error occurred while handling another error:
+Error: Call to undefined method Yii::app() in /home/wpsupport/public_html/charles&keith/views/layouts/main.php:24
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/View.php(332): require()
+#1 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/View.php(250): yii\base\View->renderPhpFile('/home/wpsupport...', Array)
+#2 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/wpsupport...', Array, Object(app\controllers\SiteController))
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<div class="sit...')
+#4 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorAction.php(128): yii\base\Controller->render('error', Array)
+#5 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorAction.php(107): yii\web\ErrorAction->renderHtmlResponse()
+#6 [internal function]: yii\web\ErrorAction->run()
+#7 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Action.php(94): call_user_func_array(Array, Array)
+#8 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\Action->runWithParams(Array)
+#9 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('error', Array)
+#10 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#11 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\BadRequestHttpException))
+#12 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\BadRequestHttpException))
+#13 {main}
+Previous exception:
+yii\web\BadRequestHttpException: Missing required parameters: id in /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/Controller.php:149
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams(Object(yii\base\InlineAction), Array)
+#1 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#2 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('update', Array)
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('defect/update', Array)
+#4 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#5 /home/wpsupport/public_html/charles&keith/web/index.php(12): yii\base\Application->run()
+#6 {main}
+$_SERVER = [
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'PWD' => '/usr/local/cpanel/cgi-sys',
+    'TZ' => 'Asia/Singapore',
+    'SHLVL' => '0',
+    'SCRIPT_NAME' => '/charles&keith/web/index.php',
+    'REQUEST_URI' => '/charles&keith/web/defect/update?=66',
+    'QUERY_STRING' => '=66',
+    'REQUEST_METHOD' => 'GET',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REDIRECT_QUERY_STRING' => '=66',
+    'REDIRECT_URL' => '/charles&keith/web/defect/update',
+    'REMOTE_PORT' => '54829',
+    'SCRIPT_FILENAME' => '/home/wpsupport/public_html/charles&keith/web/index.php',
+    'SERVER_ADMIN' => 'webmaster@webpuppies.me',
+    'CONTEXT_DOCUMENT_ROOT' => '/home/wpsupport/public_html',
+    'CONTEXT_PREFIX' => '',
+    'REQUEST_SCHEME' => 'http',
+    'DOCUMENT_ROOT' => '/home/wpsupport/public_html',
+    'REMOTE_ADDR' => '101.100.181.180',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '103.11.189.110',
+    'SERVER_NAME' => 'webpuppies.me',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_SIGNATURE' => '',
+    'HTTP_COOKIE' => '_ga=GA1.2.2019414797.1488364878; __atuvc=7%7C50; _csrf=393aa8e107b5a20b6df0c6080c991246beab23a8be2f495fc3d32dd1e5ddb808a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22uLis2WEsjUPbQJ48gHe8p8G_zGDw2XCw%22%3B%7D; timezone=Asia/Shanghai; PHPSESSID=1eb03ec75609d23cbe908110a1119f77',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_REFERER' => 'http://webpuppies.me/charles&keith/web/defect/view?id=66',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_HOST' => 'webpuppies.me',
+    'SCRIPT_URI' => 'http://webpuppies.me/charles&keith/web/defect/update',
+    'SCRIPT_URL' => '/charles&keith/web/defect/update',
+    'UNIQUE_ID' => 'Wp95QQ6ZZwxCeGAhdz2P2AAAACk',
+    'REDIRECT_STATUS' => '200',
+    'REDIRECT_SCRIPT_URI' => 'http://webpuppies.me/charles&keith/web/defect/update',
+    'REDIRECT_SCRIPT_URL' => '/charles&keith/web/defect/update',
+    'REDIRECT_UNIQUE_ID' => 'Wp95QQ6ZZwxCeGAhdz2P2AAAACk',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/charles&keith/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520400705.071219921112060546875,
+    'REQUEST_TIME' => 1520400705,
+]
+[07-Mar-2018 13:32:31 Asia/Singapore] An Error occurred while handling another error:
+Error: Call to undefined method Yii::app() in /home/wpsupport/public_html/charles&keith/views/layouts/main.php:24
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/View.php(332): require()
+#1 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/View.php(250): yii\base\View->renderPhpFile('/home/wpsupport...', Array)
+#2 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/wpsupport...', Array, Object(app\controllers\SiteController))
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<div class="sit...')
+#4 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorAction.php(128): yii\base\Controller->render('error', Array)
+#5 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorAction.php(107): yii\web\ErrorAction->renderHtmlResponse()
+#6 [internal function]: yii\web\ErrorAction->run()
+#7 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Action.php(94): call_user_func_array(Array, Array)
+#8 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\Action->runWithParams(Array)
+#9 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('error', Array)
+#10 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#11 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\BadRequestHttpException))
+#12 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\BadRequestHttpException))
+#13 {main}
+Previous exception:
+yii\web\BadRequestHttpException: Missing required parameters: id in /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/Controller.php:149
+Stack trace:
+#0 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams(Object(yii\base\InlineAction), Array)
+#1 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#2 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('updates', Array)
+#3 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('defect/updates', Array)
+#4 /home/wpsupport/public_html/charles&keith/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#5 /home/wpsupport/public_html/charles&keith/web/index.php(12): yii\base\Application->run()
+#6 {main}
+$_SERVER = [
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'PWD' => '/usr/local/cpanel/cgi-sys',
+    'TZ' => 'Asia/Singapore',
+    'SHLVL' => '0',
+    'SCRIPT_NAME' => '/charles&keith/web/index.php',
+    'REQUEST_URI' => '/charles&keith/web/defect/updates?=id66',
+    'QUERY_STRING' => '=id66',
+    'REQUEST_METHOD' => 'GET',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REDIRECT_QUERY_STRING' => '=id66',
+    'REDIRECT_URL' => '/charles&keith/web/defect/updates',
+    'REMOTE_PORT' => '54838',
+    'SCRIPT_FILENAME' => '/home/wpsupport/public_html/charles&keith/web/index.php',
+    'SERVER_ADMIN' => 'webmaster@webpuppies.me',
+    'CONTEXT_DOCUMENT_ROOT' => '/home/wpsupport/public_html',
+    'CONTEXT_PREFIX' => '',
+    'REQUEST_SCHEME' => 'http',
+    'DOCUMENT_ROOT' => '/home/wpsupport/public_html',
+    'REMOTE_ADDR' => '101.100.181.180',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '103.11.189.110',
+    'SERVER_NAME' => 'webpuppies.me',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_SIGNATURE' => '',
+    'HTTP_COOKIE' => '_ga=GA1.2.2019414797.1488364878; __atuvc=7%7C50; _csrf=393aa8e107b5a20b6df0c6080c991246beab23a8be2f495fc3d32dd1e5ddb808a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22uLis2WEsjUPbQJ48gHe8p8G_zGDw2XCw%22%3B%7D; timezone=Asia/Shanghai; PHPSESSID=1eb03ec75609d23cbe908110a1119f77',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_REFERER' => 'http://webpuppies.me/charles&keith/web/defect/view?id=66',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_HOST' => 'webpuppies.me',
+    'SCRIPT_URI' => 'http://webpuppies.me/charles&keith/web/defect/updates',
+    'SCRIPT_URL' => '/charles&keith/web/defect/updates',
+    'UNIQUE_ID' => 'Wp95b5qQ74BeqEwW78ppKAAAAMs',
+    'REDIRECT_STATUS' => '200',
+    'REDIRECT_SCRIPT_URI' => 'http://webpuppies.me/charles&keith/web/defect/updates',
+    'REDIRECT_SCRIPT_URL' => '/charles&keith/web/defect/updates',
+    'REDIRECT_UNIQUE_ID' => 'Wp95b5qQ74BeqEwW78ppKAAAAMs',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/charles&keith/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520400751.579914093017578125,
+    'REQUEST_TIME' => 1520400751,
+]

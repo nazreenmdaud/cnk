@@ -1,0 +1,8 @@
+[08-Jan-2018 17:55:53 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'yii\widgets\ActiveForm' not found in /home/wpsupport/public_html/charles&keith/views/user/_search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/wpsupport/public_html/charles&keith/views/user/_search.php on line 13
+[08-Jan-2018 17:56:00 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/wpsupport/public_html/charles&keith/views/user/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wpsupport/public_html/charles&keith/views/user/index.php on line 10
